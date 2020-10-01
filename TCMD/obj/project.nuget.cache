@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WtZESKCgd+USC51vAu6J3DyBIHlwhAYYabxrvKLs60yx1MfcA/NfQ8IZfWo0oINeYh5JHbLNZ37qGRnpGcLbEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theos\\source\\repos\\TCMD\\TCMD\\TCMD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
