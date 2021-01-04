@@ -1,7 +1,4 @@
 # TCMD
 TCMD
 
-Nuget Key:
 
-Theoistic
-15e132e36e7474f80c8cecd935452d1252053c2c
