@@ -1,11 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Copyright>Theoistic</Copyright>
-    <Description />
-    <Version>0.1</Version>
+	<TargetFramework>net7.0</TargetFramework>
+	<ImplicitUsings>enable</ImplicitUsings>
+	<Nullable>enable</Nullable>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<Copyright>Theoistic</Copyright>
+	<Description>An easy way to add commandline argument logic in your projects</Description>
+	<Version>1.1</Version>
+	<RepositoryType>https://github.com/Theoistic/TCMD</RepositoryType>
   </PropertyGroup>
 
 </Project>

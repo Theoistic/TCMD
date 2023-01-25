@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TCMD.TestCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "test -a 2 -t \"hello world\" -g3"
+    }
+  }
+}

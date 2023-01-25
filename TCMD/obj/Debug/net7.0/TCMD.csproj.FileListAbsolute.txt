@@ -1,0 +1,12 @@
+C:\Users\theo\source\repos\TCMD\TCMD\bin\Debug\net7.0\TCMD.deps.json
+C:\Users\theo\Source\Repos\TCMD\TCMD\bin\Debug\net7.0\TCMD.dll
+C:\Users\theo\Source\Repos\TCMD\TCMD\bin\Debug\net7.0\TCMD.pdb
+C:\Users\theo\Source\Repos\TCMD\TCMD\obj\Debug\net7.0\TCMD.csproj.AssemblyReference.cache
+C:\Users\theo\Source\Repos\TCMD\TCMD\obj\Debug\net7.0\TCMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theo\Source\Repos\TCMD\TCMD\obj\Debug\net7.0\TCMD.AssemblyInfoInputs.cache
+C:\Users\theo\Source\Repos\TCMD\TCMD\obj\Debug\net7.0\TCMD.AssemblyInfo.cs
+C:\Users\theo\Source\Repos\TCMD\TCMD\obj\Debug\net7.0\TCMD.csproj.CoreCompileInputs.cache
+C:\Users\theo\Source\Repos\TCMD\TCMD\obj\Debug\net7.0\TCMD.dll
+C:\Users\theo\Source\Repos\TCMD\TCMD\obj\Debug\net7.0\refint\TCMD.dll
+C:\Users\theo\Source\Repos\TCMD\TCMD\obj\Debug\net7.0\TCMD.pdb
+C:\Users\theo\source\repos\TCMD\TCMD\obj\Debug\net7.0\ref\TCMD.dll

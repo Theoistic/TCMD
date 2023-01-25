@@ -2,10 +2,11 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>TCMD</id>
-    <version>0.1.0</version>
+    <version>1.1.0</version>
     <authors>TCMD</authors>
-    <description>Package Description</description>
+    <description>An easy way to add commandline argument logic in your projects</description>
     <copyright>Theoistic</copyright>
+    <repository type="https://github.com/Theoistic/TCMD" />
     <dependencies>
       <group targetFramework="net7.0" />
     </dependencies>
