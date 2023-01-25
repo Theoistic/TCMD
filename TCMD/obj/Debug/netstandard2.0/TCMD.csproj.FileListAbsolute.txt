@@ -1,8 +1,0 @@
-C:\Users\theos\source\repos\TCMD\TCMD\bin\Debug\netstandard2.0\TCMD.deps.json
-C:\Users\theos\source\repos\TCMD\TCMD\bin\Debug\netstandard2.0\TCMD.dll
-C:\Users\theos\source\repos\TCMD\TCMD\bin\Debug\netstandard2.0\TCMD.pdb
-C:\Users\theos\source\repos\TCMD\TCMD\obj\Debug\netstandard2.0\TCMD.csprojAssemblyReference.cache
-C:\Users\theos\source\repos\TCMD\TCMD\obj\Debug\netstandard2.0\TCMD.AssemblyInfoInputs.cache
-C:\Users\theos\source\repos\TCMD\TCMD\obj\Debug\netstandard2.0\TCMD.AssemblyInfo.cs
-C:\Users\theos\source\repos\TCMD\TCMD\obj\Debug\netstandard2.0\TCMD.dll
-C:\Users\theos\source\repos\TCMD\TCMD\obj\Debug\netstandard2.0\TCMD.pdb
